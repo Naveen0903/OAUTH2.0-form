@@ -1,0 +1,15 @@
+.card-background {
+    background-color: #3b3939;
+    color: #fff;
+}
+
+.active{
+    border-bottom: 4px solid aqua;
+    padding-bottom: 0.75rem;
+    width: 29%;
+}
+
+.signup-btn {
+    width: 100%;
+    border-radius: 0;
+}

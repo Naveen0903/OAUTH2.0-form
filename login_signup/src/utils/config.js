@@ -1,0 +1,1 @@
+export const ENDPOINT_URL = process.env.ENDPOINT || "http://localhost:5000/api";
